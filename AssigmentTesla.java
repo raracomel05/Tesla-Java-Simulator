@@ -2,7 +2,8 @@
 NAME: NURUL ULFAH MUZFIRAH BINTI MASRIAL 
 CLASS: S2K2T4
 MATRIC NUMBER : MS2323180652
-ARRAY ASSIGMENT QUESTION: Write a program that accepts the number of salespersons in Tesla Automotive company, their names, and their yearly sales
+ARRAY ASSIGMENT QUESTION: Write a program that accepts the number of salespersons 
+in Tesla Automotive company, their names, and their yearly sales
 
 1.Input the number of salespersons, their names, and yearly sales.
 2.Display the highest and lowest yearly sales, along with:
@@ -101,7 +102,8 @@ public class AssigmentTesla
                 System.out.println();
                   
                   
-                //4th looping to find the sales person names[] of salesperson (s) who got the highest sales and frequency of salesperson (s) who got the highest sales
+                //4th looping to find the sales person names[] of salesperson (s) who got the 
+               highest sales and frequency of salesperson (s) who got the highest sales
                   
                 System.out.println("\n-------THE HIGHEST SALES-------");
                 System.out.println();
@@ -128,7 +130,8 @@ public class AssigmentTesla
                 System.out.println();
     
                 
-                //5th looping to find the sales person names[] of salesperson (s) who got the lowest sales and frequency of salesperson (s) who got the lowest sales
+                //5th looping to find the sales person names[] of salesperson (s) who got the
+               lowest sales and frequency of salesperson (s) who got the lowest sales
                  
                 System.out.println("\n-------THE LOWEST SALES-------");
                 System.out.println();
